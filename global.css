@@ -11,7 +11,7 @@ div#logo {
   margin: 0;
 }
 
-img#logo {
+img#logo_img {
   width: 50%;
   padding-top: 2.5vw;
   padding-bottom: 2.5vw;  
@@ -72,7 +72,7 @@ div#omaha {
   left: 28%;
 }
 
-img#aiga {
+img#aiga_img {
   width: 75%;
 }
 
@@ -111,7 +111,7 @@ img#bird {
   width: 12%;
 }
 
-div#info_title {
+div.info_title {
   font-size: 8.5vw;
   color: #394B63;
   padding-top: 50px;
@@ -207,7 +207,7 @@ img#event_schedule {
   padding-top: 70px;
 }
 
-div#date {
+div.date {
   color: #EEC542;
   font-size: 14vw;
   padding-top: 100px;
@@ -273,7 +273,7 @@ div#faq {
   background: #CBECF9;
 }
 
-img#faq {
+img#faq_img {
   width: 60%;
   margin-left: 20%;
   margin-right: 20%;
