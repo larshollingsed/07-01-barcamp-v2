@@ -1,0 +1,62 @@
+body {
+font-family: 'Rokkitt', serif;
+}
+
+div#intro {
+  position:relative;
+}
+
+div#info {
+  position:relative;
+}
+
+img#buttonlines {
+  position: relative;
+  width: 100%;
+  margin-top: 50px;
+}
+
+img#bird {
+  position: absolute;
+  top: 19%;
+  left: 44%;
+  width: 12%;
+}
+
+div#info_title {
+  text-align:center;
+  font-size: 30px;
+  color: #394B63;
+  padding-top: 200px;
+}
+
+div#green_register  {
+  width: 27%;
+  height: 30%;
+  background: #6BA236;
+  margin: 0;
+  position: absolute;
+  top: 45%;
+  left: 38%;
+}
+
+div#register_bird {
+  position:relative;
+}
+
+div#register_today {
+  color: white;
+  font-size: 4vw;
+  text-align: center;
+  top: 30%;
+  position: absolute;
+  left: 5%;
+}
+
+div#fifteen_dollars {
+  color: #6BA236;
+  font-size: 12vw;
+  position: absolute;
+  top: 108%;
+  left: 22%;
+}
