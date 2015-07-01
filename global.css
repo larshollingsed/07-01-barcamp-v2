@@ -111,3 +111,70 @@ h1.dash {
   height: 5px;
   margin-top: 80px;
 }
+
+div#calendar {
+  background-repeat: repeat-y;
+  background-image: url("./assets/board.jpg");
+  width: 100%;
+  position: relative;
+}
+
+img#event_schedule {
+  width: 80%;
+  margin-left: 10%;
+  margin-right: 10%;
+  padding-top: 70px;
+}
+
+div#date {
+  color: #EEC542;
+  font-size: 14vw;
+  padding-top: 100px;
+}
+
+div.address {
+  color: white;
+  font-size: 5vw;
+  padding-left: 10%;
+  padding-right: 10%;
+  padding-bottom: 70px;
+}
+
+.circle {
+  border-radius: 50%;
+  width: 20vw;
+  height: 20vw;
+  border: 3px #D1582C solid;
+  margin-left: auto;
+  margin-right: auto; 
+}
+
+.event_time {
+  color: white;
+  font-size: 11vw;
+  margin: 0;
+  position: relative;
+  top: 8px;
+}
+
+.am_pm {
+  font-size: 5vw;
+  color: white;
+  margin-top: -5px;
+}
+
+.agenda_title {
+  color: white;
+  font-size: 8vw;
+  margin: 0;
+  margin-top: 10px;
+}
+
+.agenda_info {
+  color: white;
+  font-size: 4vw;
+  padding-left: 10%;
+  padding-right: 10%;
+  line-height: 6vw;
+  margin-bottom: 40px;
+}
