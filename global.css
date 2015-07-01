@@ -187,3 +187,57 @@ img#fire {
   margin-right: 10%;
   padding-top: 60px;
 }
+
+div#faq {
+  background: #CBECF9;
+}
+
+img#faq {
+  width: 60%;
+  margin-left: 20%;
+  margin-right: 20%;
+  padding-top: 50px;
+}
+
+.faq_item {
+  font-size: 20px;
+  text-align: left;
+  padding-left: 20px;
+  letter-spacing: 2px;
+}
+
+.faq_bullet {
+    padding-right: 5px;
+    position: relative;
+    top: 3px;
+    width: 70%;
+}
+
+ul.faq_list {
+  font-size: 4.5vw;
+  text-align: left;
+  padding-left: 12px;
+  letter-spacing: 2.5px;
+  font-weight: bold;
+  list-style-type: none;
+}
+
+.faq_list li {
+  background-image: url("./assets/plus.png");
+  background-repeat: no-repeat;
+  background-origin: border-box;
+  margin-top: 7vw;
+  margin-bottom: 7vw;
+  background-size: 6%;
+  position: relative;
+  padding-left: 8%;
+  padding-top: 1%;
+}
+
+.faq_font {
+  color: #8F5C31;
+}
+
+img#tower {
+  width: 100%;
+}
