@@ -168,13 +168,22 @@ div.address {
   font-size: 8vw;
   margin: 0;
   margin-top: 10px;
+  padding-left: 10%;
+  padding-right: 10%;
 }
 
 .agenda_info {
   color: white;
-  font-size: 4vw;
+  font-size: 4.5vw;
   padding-left: 10%;
   padding-right: 10%;
   line-height: 6vw;
   margin-bottom: 40px;
+}
+
+img#fire {
+  width: 80%;
+  margin-left: 10%;
+  margin-right: 10%;
+  padding-top: 60px;
 }
