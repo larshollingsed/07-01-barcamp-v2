@@ -16,6 +16,13 @@ img#buttonlines {
   margin-top: 50px;
 }
 
+.center {
+  text-align: center;
+  margin-right: auto;
+  margin-left: auto;
+  display: block;
+}
+
 img#bird {
   position: absolute;
   top: 19%;
@@ -70,4 +77,37 @@ div#fifteen_dollars {
   position: absolute;
   top: 108%;
   left: 22%;
+}
+
+div#talk_tracks {
+  position: relative;
+}
+
+div.track_name {
+  color: #6BA236;
+  font-size: 6vw;
+  margin-top: 40px;
+  font-weight: bold;
+}
+
+img.track_badge {
+  width: 50%;
+}
+
+ul.track_examples {
+  font-size: 5vw;
+  list-style-type: none;
+  color: #6C502A;
+  padding: 0;
+  line-height: 7vw;
+}
+
+h1.dash {
+  background-repeat: repeat-x;
+  background-image: url("./assets/dash-horizontal.png");
+  width: 80%;
+  margin-right: 10%;
+  margin-left: 10%;
+  height: 5px;
+  margin-top: 80px;
 }
