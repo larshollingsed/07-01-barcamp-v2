@@ -144,6 +144,10 @@ div#green_register  {
   line-height: 270%;
 }
 
+div#dollar_sign {
+  font-size: smaller;
+}
+
 div#register_bird {
   position:relative;
 }
