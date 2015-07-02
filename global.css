@@ -145,7 +145,11 @@ div#green_register  {
 }
 
 div#dollar_sign {
-  font-size: smaller;
+  display: inline-block;
+  font-size: 7vw;
+  position: relative;
+  top: -3vw;
+  left: 2vw;
 }
 
 div#register_bird {
@@ -166,7 +170,7 @@ div#fifteen_dollars {
   font-size: 12vw;
   position: absolute;
   top: 100%;
-  left: 30%;
+  left: 25%;
 }
 
 div#talk_tracks {
