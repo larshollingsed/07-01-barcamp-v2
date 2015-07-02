@@ -139,6 +139,13 @@ div#green_register  {
   left: 38%;
 }
 
+div#register_right {
+  height: 90px;
+  width: 45px;
+  border-radius: 0 90px 90px 0;
+  background: #6BA236;
+}
+
 div#register_bird {
   position:relative;
 }
@@ -205,6 +212,7 @@ img#event_schedule {
   margin-left: 10%;
   margin-right: 10%;
   padding-top: 70px;
+  margin-top: 15%;
 }
 
 div.date {
@@ -216,9 +224,10 @@ div.date {
 div.address {
   color: white;
   font-size: 5vw;
-  padding-left: 10%;
-  padding-right: 10%;
+  padding-left: 9%;
+  padding-right: 9%;
   padding-bottom: 70px;
+  line-height: 7vw;
 }
 
 .circle {
@@ -263,9 +272,9 @@ div.address {
 }
 
 img#fire {
-  width: 80%;
-  margin-left: 10%;
-  margin-right: 10%;
+  width: 90%;
+  margin-left: 5%;
+  margin-right: 5%;
   padding-top: 60px;
 }
 
@@ -295,7 +304,7 @@ img#faq_img {
 }
 
 ul.faq_list {
-  font-size: 4.5vw;
+  font-size: 5.5vw;
   text-align: left;
   padding-left: 12px;
   letter-spacing: 2.5px;
