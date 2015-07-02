@@ -130,20 +130,18 @@ div#info_content {
 }
 
 div#green_register  {
-  width: 27%;
+  width: 39%;
   height: 30%;
   background: #6BA236;
   margin: 0;
   position: absolute;
   top: 45%;
-  left: 38%;
-}
-
-div#register_right {
-  height: 90px;
-  width: 45px;
-  border-radius: 0 90px 90px 0;
-  background: #6BA236;
+  left: 31%;
+  border-radius: 50px;
+  color: white;
+  font-size: 4.5vw;
+  text-align: center;
+  line-height: 270%;
 }
 
 div#register_bird {
@@ -163,8 +161,8 @@ div#fifteen_dollars {
   color: #6BA236;
   font-size: 12vw;
   position: absolute;
-  top: 108%;
-  left: 22%;
+  top: 100%;
+  left: 30%;
 }
 
 div#talk_tracks {
