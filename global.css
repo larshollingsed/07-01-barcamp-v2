@@ -381,4 +381,45 @@ img#tower {
     margin-top: 80px;
   }
   
+  .circle {
+    border-radius: 50%;
+    width: 20vw;
+    height: 20vw;
+    border: 3px #D1582C solid;
+    margin-left: auto;
+    margin-right: auto; 
+  }
+
+  .event_time {
+    color: white;
+    font-size: 10vw;
+    margin: 0;
+    position: relative;
+    top: 10px;
+  }
+
+  .am_pm {
+    font-size: 5vw;
+    color: white;
+    margin-top: -5px;
+  }
+
+  .agenda_title {
+    color: white;
+    font-size: 7vw;
+    margin: 0;
+    margin-top: 10px;
+    padding-left: 10%;
+    padding-right: 10%;
+  }
+
+  .agenda_info {
+    color: white;
+    font-size: 4vw;
+    padding-left: 10%;
+    padding-right: 10%;
+    line-height: 6vw;
+    margin-bottom: 40px;
+  }
+  
 }
